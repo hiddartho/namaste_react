@@ -2,7 +2,7 @@
   "name": "namaste-react",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/hiddartho/namaste_react/issues"
   },
-  "homepage": "https://github.com/hiddartho/namaste_react#readme"
+  "homepage": "https://github.com/hiddartho/namaste_react#readme",
+  "devDependencies": {
+    "parcel": "^2.9.1",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
